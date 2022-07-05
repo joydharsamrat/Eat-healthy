@@ -57,7 +57,9 @@ h2 {
 .mid-section {
     display: flex;
     margin-top: 100px;
-    background-image: url(images/shapes/frame58.jpg);
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .photo2 {
@@ -83,4 +85,105 @@ h2 {
     color: white;
     font-size: 30px;
     box-shadow: 10px 10px 20px gray;
+}
+
+#recipie {
+    text-align: center;
+    margin-top: 50px;
+    width: 400px;
+    margin-left: 38%;
+}
+
+.kala-vuna {
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    border-bottom: 10px solid white;
+    border-right: 10px solid white;
+    border-top: 10px solid gray;
+    border-left: 10px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.food {
+    width: 400px;
+    height: 300px;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.paratha {
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+    border-bottom: 10px solid white;
+    border-right: 10px solid white;
+    border-top: 10px solid gray;
+    border-left: 10px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.third-section {
+    display: flex;
+    padding: 50px;
+    margin-bottom: 200px;
+}
+
+h3 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.count {
+    font-size: 50px;
+}
+
+.bottom-section {
+    display: flex;
+    box-shadow: 10px 15px 20px gray;
+    margin-right: 150px;
+    margin-left: 140px;
+    border-radius: 20px;
+}
+
+.social-media {
+    margin-left: 150px;
+    height: 180px;
+    width: 300px;
+    padding-bottom: 30px;
+}
+
+.under-section {
+    background-color: black;
+
+    margin-top: 100px;
+    padding-bottom: 150px;
+    height: 150px;
+    padding-left: 35%;
+
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    margin-top: 18px;
+}
+
+#eat {
+    color: rgb(204, 134, 5);
+}
+
+.my-company {
+    display: flex;
+}
+
+.tagline {
+    color: white;
+}
+
+.copyright {
+    color: white;
+    text-align: right;
+    background-color: black;
 }
