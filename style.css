@@ -49,3 +49,38 @@ h1 {
     font-size: 30px;
     box-shadow: 10px 10px 20px gray;
 }
+
+h2 {
+    font-size: 50px;
+}
+
+.mid-section {
+    display: flex;
+    margin-top: 100px;
+    background-image: url(images/shapes/frame58.jpg);
+}
+
+.photo2 {
+    width: 500px;
+    height: 450px;
+}
+
+.about-us {
+    width: 300px;
+    margin-left: 200px;
+    padding-top: 50px;
+}
+
+h2 {
+    color: rgb(41, 45, 87);
+}
+
+.contact-button {
+    text-decoration: none;
+    background-image: linear-gradient(to top right, lightblue, blue);
+    padding: 20px 30px;
+    border-radius: 50px;
+    color: white;
+    font-size: 30px;
+    box-shadow: 10px 10px 20px gray;
+}
